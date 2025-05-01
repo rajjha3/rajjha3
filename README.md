@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing a complex software artitecture to meet the end user expectation.
 - 🌱 I’m currently learning different tools and software that helps in reducing the total latency of network communication
 - 💞️ I’m looking to collaborate on complex problem 
-- 📫 How to reach me .
+- 📫 Reach me on rajujha.raj9999@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
