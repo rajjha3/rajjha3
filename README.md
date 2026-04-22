@@ -136,5 +136,3 @@ GitHub, JFrog, Splunk, Grafana
 I love building **high-scale systems + leveraging AI to 10x engineering productivity** 🚀
 
 ---
-
-Just tell me 👍
