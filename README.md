@@ -1,5 +1,3 @@
-Here’s a **clean, FAANG-style GitHub README.md** tailored from your resume. You can directly copy-paste this into your repo:
-
 ---
 
 # 👋 Hi, I'm Raju Jha
